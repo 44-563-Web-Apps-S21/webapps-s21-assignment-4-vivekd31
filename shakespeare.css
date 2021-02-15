@@ -1,0 +1,33 @@
+.speech {
+    font-size: 18px;
+    color: black;
+}
+
+
+.stage-direction {
+    font-size: 19px;
+    color: black;
+    background-color: chocolate;
+}
+
+.stage-direction:hover {
+    background-color: darkblue;
+    color:darkgrey;
+}
+
+.name {
+    font-size: 20px;
+    color: black;
+}
+
+.COMINIUS {
+    color:darkred;
+}
+
+.Messenger {
+    color:deepskyblue;
+}
+
+.MARCIUS {
+    color:firebrick;
+}
