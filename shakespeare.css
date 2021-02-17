@@ -52,3 +52,20 @@ table {
       text-shadow: 1px 1px 3px #FF0000;
       border-style: dotted; 
     }
+
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #dddddd;
+      }
+      
+      li {
+        float: left;
+      }
+      
+      li a {
+        display: block;
+        padding: 8px;
+      }
