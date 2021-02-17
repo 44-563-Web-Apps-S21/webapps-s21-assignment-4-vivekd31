@@ -46,3 +46,9 @@ table {
   }
   
   tr:nth-child(even) {background-color:wheat;}
+  
+  .name:hover{ 
+      color:violet;
+      text-shadow: 1px 1px 3px #FF0000;
+      border-style: dotted; 
+    }
